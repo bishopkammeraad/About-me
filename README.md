@@ -4,4 +4,3 @@ I am currently a Sophmore at the University of Michigan studying Data Science an
 I specialize in back end dev as well as data analytics.
 I work within the automation and sneaker world.
 
-print('the end!')
